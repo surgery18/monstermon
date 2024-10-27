@@ -13,7 +13,7 @@
 <script setup>
 	import { computed } from "vue"
 	import { useAlbumStore } from "../stores/albumStore"
-	import Card from "@/components/card.vue"
+	import Card from "@/components/Card.vue"
 	// import { emit } from "vue"
 
 	// Access the album from the store
